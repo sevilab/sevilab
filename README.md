@@ -1,58 +1,48 @@
-# Selamlar, Ben Sevilay Bayram! 👋 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=007EC6&center=true&vCenter=true&width=600&lines=Selamlar,+Ben+Sevilay+Bayram!+%F0%9F%91%8B;End%C3%BCstri+M%C3%BChendisi;Bilgisayar+M%C3%BChendisli%C4%9Fi+Y%C3%BCksek+Lisans" alt="Typing SVG" />
+</div>
 
-**Endüstri Mühendisliği Mezunu ve  Bilgisayar Mühendisliği Yüksek Lisans Öğrencisiyim.**[cite: 4] Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Operasyonel verimlilik, bilgisayar görüsü (Computer Vision) ve otonom yapay zeka ajanları üzerine odaklanıyorum.
-
----
-
-## 🚀 Öne Çıkan Çalışmalarım & Akademik Projelerim
-
-* 📊 **TÜBİTAK 2209-B — Kumaş Depo Tasarımı ve Dijital Takibi:** Sanayi odaklı bu lisans bitirme projemde, depo yerleşimi optimizasyonu, rota analizi algoritmaları ve süreçlerin dijital takibi üzerine uçtan uca bir sistem geliştirdim.[cite: 4]
-* 🤖 **Ajan Destekli Dinamik Pazar Analiz Sistemi:** Çoklu yapay zeka ajanları (Multi-Agent Architecture), SQLite senkronizasyonu ve Türkçe NLP duygu analizi barındırır. Geleneksel en ucuz fiyat mantığını aşan akıllı bir karar destek platformudur.
-* 👷‍♂️ **Kişisel Koruyucu Donanım (KKD) Tespiti:** YOLOv8m ve Faster R-CNN mimarilerini kıyaslayan, İSG ihlallerini belirlemek üzere geliştirilmiş, yanlış alarmları önleyen **Akıllı Yarım Beden Algılama Algoritmalı** bir bilgisayar görmesi projesidir.
-* 📈 **Gelişmiş Makine Öğrenmesi Çözümleri:** Veri sızıntısı (Data Leakage) engellenmiş Pipeline altyapılı sınıflandırma (Meme Kanseri Teşhisi), zaman serisi/regresyon (Günlük Gelir Tahmini) ve gözetimsiz kümeleme (K-Means ile Müşteri Segmentasyonu) çalışmalarını içerir.
+<h3 align="center">Analitik düşünme ve endüstriyel tecrübelerimi yapay zeka ile birleştiriyorum.</h3>
 
 ---
 
-## 🛠️ Teknik Yetkinlikler & Araçlar
+### 👩‍💻 Hakkımda
+
+**Endüstri Mühendisi & Bilgisayar Mühendisliği Yüksek Lisans Öğrencisi**
+
+Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Lisans eğitimimin ardından ilgi alanlarım doğrultusunda **Sakarya Üniversitesi'nde Bilgisayar Mühendisliği** alanında yüksek lisans yapmaktayım.
+
+- 🌱 Şu sıralar **Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme** konuları üzerine derinleşiyorum.
+- 👯 Yapay zeka ve optimizasyon üzerine ortak projeler geliştirmeye her zaman açığım.
+- ⚡ Öğrenmeyi, araştırmayı ve yeni algoritmalar keşfetmeyi seviyorum.
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+
+*(Aşağıdaki yetenekleri ilgi alanlarınıza göre örnek olarak ekledim, dilediğiniz gibi çıkarıp yenilerini ekleyebilirsiniz.)*
 
 <p align="left">
-  <!-- Programlama Dilleri -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <br/>
-  <!-- Yapay Zeka ve Veri Bilimi -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <br/>
-  <!-- Modelleme ve Mühendislik Araçları -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERP_LOGO-004488?style=for-the-badge&logo=enterprise&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-074D5B?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🤝 İletişim & Ağ
+### 📊 GitHub İstatistiklerim
 
-Endüstriyel optimizasyon, süreç kalitesi iyileştirme ve yapay zeka projeleri üzerine fikir alışverişi yapmak veya iş birlikleri geliştirmek için bana ulaşabilirsiniz:
-
-<p align="left">
-  <a href="https://linkedin.com/in/sevilay-bayram" target="_blank">[cite: 4]
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sevilayybayramm@gmail.com" target="_blank">[cite: 4]
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- 👀 Ziyaretçi Sayacı -->
 <p align="center">
-  <img src="https://komarev.com/badge/counter/sevilab/?color=blue&style=flat-square&label=Profilimi%20Ziyaret%20Edenler" alt="sevilab" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sevilab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevilab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
+
+---
+
+<!-- Ziyaretçi Sayacı -->
+<div align="center">
+  <img src="https://komarev.com/badge/counter/sevilab/?color=blue&style=for-the-badge&label=Profilimi%20Ziyaret%20Edenler" alt="Ziyaretçi Sayacı" />
+</div>
