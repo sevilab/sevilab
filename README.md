@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Selamlar, Ben Sevilay Bayram! 👋 
 
-**Endüstri Mühendisliği mezunu ve Bilgisayar Mühendisliği Yüksek Lisans Öğrencisi** Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Operasyonel verimlilik, bilgisayar görüsü (Computer Vision) ve otonom yapay zeka ajanları üzerine odaklanıyorum.
+**Endüstri Mühendisliği Mezunu ve Bilgisayar Mühendisliği Yüksek Lisans Öğrencisiyim** Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Operasyonel verimlilik, bilgisayar görüsü (Computer Vision) ve otonom yapay zeka ajanları üzerine odaklanıyorum.
 
 ---
 
