@@ -16,8 +16,6 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
 - 👯 Yapay zeka ve optimizasyon üzerine ortak projeler geliştirmeye her zaman açığım.
 - ⚡ Öğrenmeyi, araştırmayı ve yeni algoritmalar keşfetmeyi seviyorum.
 
----
-
 ### 🛠️ Teknolojiler ve Araçlar
 
 <p align="left">
@@ -28,8 +26,6 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
----
 
 <!-- Ziyaretçi Sayacı -->
 <div align="center">
