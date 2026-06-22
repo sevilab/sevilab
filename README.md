@@ -12,7 +12,7 @@
 
 Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Lisans eğitimimin ardından ilgi alanlarım doğrultusunda **Sakarya Üniversitesi'nde Bilgisayar Mühendisliği** alanında yüksek lisans yapmaktayım.
 
-- 🌱 Şu sıralar **Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme** konuları üzerine derinleşiyorum.
+- 🌱 Şu sıralar **Veri Bilimi, Makine Öğrenmesi, Derin Öğrenme ve Yapay Zeka** konuları üzerinede çalışmaktayım.
 - 👯 Yapay zeka ve optimizasyon üzerine ortak projeler geliştirmeye her zaman açığım.
 - ⚡ Öğrenmeyi, araştırmayı ve yeni algoritmalar keşfetmeyi seviyorum.
 
@@ -29,15 +29,6 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevilab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevilab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
