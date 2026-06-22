@@ -12,7 +12,7 @@
 
 Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, yapay zeka ve veri bilimi dünyasıyla birleştiren bir geliştiriciyim. Lisans eğitimimin ardından ilgi alanlarım doğrultusunda **Sakarya Üniversitesi'nde Bilgisayar Mühendisliği** alanında yüksek lisans yapmaktayım.
 
-- 🌱 Şu sıralar **Veri Bilimi, Makine Öğrenmesi, Derin Öğrenme ve Yapay Zeka** konuları üzerinede çalışmaktayım.
+- 🌱 Şu sıralar **Veri Bilimi, Makine Öğrenmesi ve Derin Öğrenme** konuları üzerine derinleşiyorum.
 - 👯 Yapay zeka ve optimizasyon üzerine ortak projeler geliştirmeye her zaman açığım.
 - ⚡ Öğrenmeyi, araştırmayı ve yeni algoritmalar keşfetmeyi seviyorum.
 
@@ -20,11 +20,9 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
 
 ### 🛠️ Teknolojiler ve Araçlar
 
-*(Aşağıdaki yetenekleri ilgi alanlarınıza göre örnek olarak ekledim, dilediğiniz gibi çıkarıp yenilerini ekleyebilirsiniz.)*
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -35,5 +33,5 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
 
 <!-- Ziyaretçi Sayacı -->
 <div align="center">
-  <img src="https://komarev.com/badge/counter/sevilab/?color=blue&style=for-the-badge&label=Profilimi%20Ziyaret%20Edenler" alt="Ziyaretçi Sayacı" />
+  <img src="https://komarev.com/badge/counter/sevilab/?color=blue&style=flat&label=visitors" alt="visitors" />
 </div>
