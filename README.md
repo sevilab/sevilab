@@ -27,7 +27,4 @@ Analitik düşünme, matematiksel optimizasyon ve endüstriyel tecrübelerimi, y
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-<!-- Ziyaretçi Sayacı -->
-<div align="center">
-  <img src="https://komarev.com/badge/counter/sevilab/?color=blue&style=flat&label=visitors" alt="visitors" />
-</div>
+
